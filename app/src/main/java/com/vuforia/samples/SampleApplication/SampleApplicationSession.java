@@ -332,8 +332,8 @@ public class SampleApplicationSession implements UpdateCallbackInterface
             // Prevent the onDestroy() method to overlap with initialization:
             synchronized (mShutdownLock)
             {
-                Vuforia.setInitParameters(mActivity, mVuforiaFlags, "AUJ6F3H/////AAAAGaOa1Tc8zUnmjei7Pq58N5p0T/q2Rocxni9Y1mTC0xOhXTNJvWm0k0edqNsC0OzhWVya7wIFgeyD6bpGkZBtRNR/D8TT9L/XdrDxWXa7/mhi955OQLaAwMMIGOeA6lv/OsTtYvP7vhbYx8qjf3oDGuHEnkj4sEaB4N3sQMO3m6SGUj7HcCQXaPPlWgtlc2+VV1oTTWe3KVHEHyj+ldhr0K/LlQuBeUWbU+qmZmm6z2k8rT6UfTw5152Qoq6H+eIfUNtsR+viGOQriK+WZ+fQyRhKiKkHyzOQn7QU3qXlVWFne+w1CO90luYmuXDI5nBcSeFhrfQNmtEBjCq4ZJ1GjJtaV6JOyuCRRgLM2vx5VdAF");
-                
+                Vuforia.setInitParameters(mActivity, mVuforiaFlags, "这里填入申请的key");
+
                 do
                 {
                     // Vuforia.init() blocks until an initialization step is
