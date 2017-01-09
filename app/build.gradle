@@ -10,10 +10,6 @@ android {
     sourceSets {
         main { jniLibs.srcDirs = ['libs'] }
     }
-//    sourceSets.main {
-//        jni.srcDirs = []
-//        jniLibs.srcDir "$VUFORIA_SDK_DIR/$NATIVE_LIB_DIR/"
-//    }
 
     defaultConfig {
         applicationId "com.vuforia.samples.VuforiaSamples"
