@@ -111,7 +111,7 @@ dependencies {
 
 >扫描以下图片即可显示
 
-[](https://github.com/linglongxin24/ARDevelopDemo/blob/master/media/chips.jpg?raw=true)
+![](https://github.com/linglongxin24/ARDevelopDemo/blob/master/media/chips.jpg?raw=true)
 [](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/AR%E6%95%88%E6%9E%9C%E5%9B%BE.png?raw=true)
 
 # ![GitHub](https://github.com/linglongxin24/ARDevelopDemo
