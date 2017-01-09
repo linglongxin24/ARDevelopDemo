@@ -3,8 +3,8 @@
 >早上起来，微信小程序刷爆了整个朋友圈，铺天盖地的各种微信小程序被晒出来，我翻开自己的手机怎么半天找不到呢？
 找个朋友分享了个小程序，我打开之后看到手机是这样的：
 
-[](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%85%A5%E5%8F%A3.jpg?raw=true)
-[](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%88%97%E8%A1%A8.jpg?raw=true)
+![](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%85%A5%E5%8F%A3.jpg?raw=true)
+![](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%88%97%E8%A1%A8.jpg?raw=true)
 
 
 >体验了一番微信小程序，说实话有点震撼，毕竟这个小程序确实做的不错！然后好多群里都炸开了锅，都在讨论微信小程序对于我们移动互联网的影响，
@@ -28,40 +28,40 @@
 
 >https://developer.vuforia.com/
 
-[](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/vuforia_develop.png?raw=true)
+![](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/vuforia_develop.png?raw=true)
 
 # 二.下载sdk，登录才可以下载的!
 
 >https://developer.vuforia.com/downloads/sdk
 
-[](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/sdk.png?raw=true)
+![](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/sdk.png?raw=true)
 
 # 三.下载demo，千万别以为下载完demo就万事大吉了！
 
 >https://developer.vuforia.com/downloads/samples
 
-[](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/demo.png?raw=true)
+![](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/demo.png?raw=true)
 
 # 四.创建一个开发者key,有key才能进行开发的！
 
 >https://developer.vuforia.com/targetmanager/licenseManager/licenseListing
 
-[](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/add_key.png?raw=true)
-[](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/add_key2.png?raw=true)
-[](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/add_key3.png?raw=true)
-[](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/add_key4.png?raw=true)
+![](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/add_key.png?raw=true)
+![](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/add_key2.png?raw=true)
+![](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/add_key3.png?raw=true)
+![](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/add_key4.png?raw=true)
 
 # 五，在项目中配置key,配置了key你的应用才能够跑起来的！
 
 >在 com.vuforia.samples.SampleApplication下的SampleApplicationSession的InitVuforiaTask的doInBackground中的
  Vuforia.setInitParameters中的第三个参数中配置key.
 
-[](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/config_key.png?raw=true)
+!](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/config_key.png?raw=true)
 
 #,六，你可能需要以正确的姿势配置依赖库
 
 #### 1.在libs中加入jar包和so库
-[](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/jnilibs.png?raw=true)
+![](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/jnilibs.png?raw=true)
 
 #### 2.在build.gradle 中加入以下配置
 
@@ -112,6 +112,6 @@ dependencies {
 >扫描以下图片即可显示
 
 ![](https://github.com/linglongxin24/ARDevelopDemo/blob/master/media/chips.jpg?raw=true)
-[](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/AR%E6%95%88%E6%9E%9C%E5%9B%BE.png?raw=true)
+![](https://github.com/linglongxin24/ARDevelopDemo/blob/master/screenshots/AR%E6%95%88%E6%9E%9C%E5%9B%BE.png?raw=true)
 
-# ![GitHub](https://github.com/linglongxin24/ARDevelopDemo
+# [GitHub](https://github.com/linglongxin24/ARDevelopDemo)
